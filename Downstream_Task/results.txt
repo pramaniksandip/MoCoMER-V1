@@ -1,0 +1,106 @@
+Expression Rate of CROHME 2014 Test Set ==============> 0.6288032454361054
+Expression Rate of CROHME 2016 Test Set ==============> 0.6050566695727986
+Expression Rate of CROHME 2019 Test Set ==============> 0.6263552960800667
+Expression Rate of CROHME 2014 Test Set ==============> 0.6217038539553753
+Expression Rate of CROHME 2016 Test Set ==============> 0.6102877070619006
+Expression Rate of CROHME 2019 Test Set ==============> 0.6480400333611342
+Expression Rate of CROHME 2014 Test Set ==============> 0.6237322515212982
+Expression Rate of CROHME 2016 Test Set ==============> 0.6190061028770706
+Expression Rate of CROHME 2019 Test Set ==============> 0.6238532110091743
+Expression Rate of CROHME 2014 Test Set ==============> 0.5669371196754563
+Expression Rate of CROHME 2016 Test Set ==============> 0.5597210113339146
+Expression Rate of CROHME 2019 Test Set ==============> 0.5779816513761468
+Expression Rate of CROHME 2014 Test Set ==============> 0.6237322515212982
+Expression Rate of CROHME 2016 Test Set ==============> 0.6190061028770706
+Expression Rate of CROHME 2019 Test Set ==============> 0.6238532110091743
+match => 516_em_386.bmp \{ a \} \{ a \}
+match => RIT_2014_7.bmp \frac { 4 x ^ { 3 } } { 3 } + \frac { 1 1 x ^ { 4 } } { 4 } + C \frac { 4 x ^ { 3 } } { 3 } + \frac { 1 1 x ^ { 4 } } { 4 } + C
+match => 515_em_361.bmp =>\sqrt { 7 } + 2 \sqrt { 7 } = 1 \sqrt { 7 } + 2 \sqrt { 7 } = 3 \sqrt { 7 } => \sqrt { 7 } + 2 \sqrt { 7 } = 1 \sqrt { 7 } + 2 \sqrt { 7 } = 3 \sqrt { 7 }
+Expression Rate of CROHME 2014 Test Set ==============> 0.6217038539553753
+match => UN_461_em_855.bmp =>\sqrt { \beta } H => \sqrt { \beta } H
+Expression Rate of CROHME 2016 Test Set ==============> 0.6102877070619006
+match => UN19_1011_em_153.bmp =>\sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) } => \sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) }
+Expression Rate of CROHME 2019 Test Set ==============> 0.6480400333611342
+
+Barlaw Twins
+Expression Rate of CROHME 2014 Test Set ==============> 0.5415821501014199
+Expression Rate of CROHME 2016 Test Set ==============> 0.5414123801220575
+Expression Rate of CROHME 2019 Test Set ==============> 0.5813177648040033
+match => 515_em_361.bmp =>\sqrt { 7 } + 2 \sqrt { 7 } = 1 \sqrt { 7 } + 2 \sqrt { 7 } = 3 \sqrt { 7 } => \sqrt { 7 } + 2 \sqrt { 7 } = 1 \sqrt { 7 } + 2 \sqrt { 7 } = 3 \sqrt { 7 }
+Expression Rate of CROHME 2014 Test Set ==============> 0.5415821501014199
+match => UN_461_em_855.bmp =>\sqrt { \beta } H => \sqrt { \beta } H
+Expression Rate of CROHME 2016 Test Set ==============> 0.5414123801220575
+match => UN19_1011_em_153.bmp =>\sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) } => \sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) }
+Expression Rate of CROHME 2019 Test Set ==============> 0.5813177648040033
+
+
+
+Debised Loss:
+Results for year 2019:
+Exp_Rate: 0.5921601334445371
+One_Mismatch_Exp-Rate: 0.7055879899916597
+Two_Mismatch_Exp_Rate: 0.7356130108423686
+Three_Mismatch_Exp_Rate: 0.7431192660550459
+match => UN19_1011_em_153.bmp =>\sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) } => \sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) }
+Expression Rate of CROHME 2019 Test Set ==============> 0.5921601334445371
+match => UN19_1011_em_153.bmp =>\sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) } => \sqrt { q } = 2 \cos \frac { \pi } { ( p + 1 ) }
+Expression Rate of CROHME 2019 Test Set ==============> 0.5921601334445371
+Results for year 2014:
+Exp_Rate: 0.5851926977687627
+One_Mismatch_Exp-Rate: 0.691683569979716
+Two_Mismatch_Exp_Rate: 0.7251521298174443
+Three_Mismatch_Exp_Rate: 0.7464503042596349
+Expression Rate of CROHME 2014 Test Set ==============> 0.5851926977687627
+Results for year 2016:
+Exp_Rate: 0.5719267654751525
+One_Mismatch_Exp-Rate: 0.6704446381865736
+Two_Mismatch_Exp_Rate: 0.7070619006102877
+Three_Mismatch_Exp_Rate: 0.7236268526591108
+Expression Rate of CROHME 2016 Test Set ==============> 0.5719267654751525
+Results for year 2019:
+Exp_Rate: 0.5921601334445371
+One_Mismatch_Exp-Rate: 0.7055879899916597
+Two_Mismatch_Exp_Rate: 0.7356130108423686
+Three_Mismatch_Exp_Rate: 0.7431192660550459
+Expression Rate of CROHME 2019 Test Set ==============> 0.5921601334445371
+
+
+Results of modified  Bottleneck (DensNet) and 3 MLP projection head
+
+Results for year 2014:
+Exp_Rate: 0.4716024340770791
+One_Mismatch_Exp-Rate: 0.59026369168357
+Two_Mismatch_Exp_Rate: 0.6298174442190669
+Three_Mismatch_Exp_Rate: 0.6531440162271805
+Expression Rate of CROHME 2014 Test Set ==============> 0.4716024340770791
+Results for year 2016:
+Exp_Rate: 0.45858761987794244
+One_Mismatch_Exp-Rate: 0.5727986050566696
+Two_Mismatch_Exp_Rate: 0.6181342632955537
+Three_Mismatch_Exp_Rate: 0.6373147340889277
+Expression Rate of CROHME 2016 Test Set ==============> 0.45858761987794244
+Results for year 2019:
+Exp_Rate: 0.4920767306088407
+One_Mismatch_Exp-Rate: 0.6105087572977481
+Two_Mismatch_Exp_Rate: 0.646371976647206
+Three_Mismatch_Exp_Rate: 0.6622185154295246
+Expression Rate of CROHME 2019 Test Set ==============> 0.4920767306088407
+Results for year 2014:
+Exp_Rate: 0.46247464503042596
+One_Mismatch_Exp-Rate: 0.5882352941176471
+Two_Mismatch_Exp_Rate: 0.6237322515212982
+Three_Mismatch_Exp_Rate: 0.6480730223123732
+Expression Rate of CROHME 2014 Test Set ==============> 0.46247464503042596
+Results for year 2014:
+Exp_Rate: 0.5233265720081136
+One_Mismatch_Exp-Rate: 0.654158215010142
+Two_Mismatch_Exp_Rate: 0.6926977687626775
+Three_Mismatch_Exp_Rate: 0.7139959432048681
+Expression Rate of CROHME 2014 Test Set ==============> 0.5233265720081136
+
+
+%MoCo With Attention (After 500 epochs)%
+
+Expression Rate of CROHME 2014 Test Set ==============> 0.6308316430020284
+Expression Rate of CROHME 2016 Test Set ==============> 0.6146469049694856
+Expression Rate of CROHME 2019 Test Set ==============> 0.6338615512927439
